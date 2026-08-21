@@ -18,13 +18,13 @@ function typeWriter(){
 typeWriter();
 
 const photos = [
-"assets/I1.jfif",
-"assets/I2.jfif",
-"assets/I3.jfif",
-"assets/I4.jfif",
-"assets/I1.jfif",
-"assets/I2.jfif",
-"assets/I4.jfif"
+"I1.jfif",
+"I2.jfif",
+"I3.jfif",
+"I4.jfif",
+"I1.jfif",
+"I2.jfif",
+"I4.jfif"
 ];
 
 let current = 0;
